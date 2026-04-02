@@ -118,4 +118,7 @@ Tests cover: basic arithmetic, decimal precision, edge-case operators, error sta
 
 ## 📄 License
 
-MIT © 2025. Free to use, modify, and distribute.
+MIT © 2026. Free to use, modify, and distribute. All Right Reserved to Techboy-Shivam
+
+
+Don't forget to ⭐
